@@ -11,7 +11,7 @@ export const EditPage = () => {
   }
   return (
     <div>
-      <div className="mx-3">
+      <div className="m-3">
         <img src={params.get("url")} width="250px" />
         {
             Array(count).fill(0).map(() => <Text/>)
