@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ReactJs-Memes_generator/static/css/main.eefc237f.css",
-    "main.js": "/ReactJs-Memes_generator/static/js/main.50cc7f0a.js",
+    "main.js": "/ReactJs-Memes_generator/static/js/main.06d50760.js",
     "static/js/787.876f76cf.chunk.js": "/ReactJs-Memes_generator/static/js/787.876f76cf.chunk.js",
     "index.html": "/ReactJs-Memes_generator/index.html",
     "main.eefc237f.css.map": "/ReactJs-Memes_generator/static/css/main.eefc237f.css.map",
-    "main.50cc7f0a.js.map": "/ReactJs-Memes_generator/static/js/main.50cc7f0a.js.map",
+    "main.06d50760.js.map": "/ReactJs-Memes_generator/static/js/main.06d50760.js.map",
     "787.876f76cf.chunk.js.map": "/ReactJs-Memes_generator/static/js/787.876f76cf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eefc237f.css",
-    "static/js/main.50cc7f0a.js"
+    "static/js/main.06d50760.js"
   ]
 }
