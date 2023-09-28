@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <h1 className='text-center'>Meme Generator</h1>
       <Routes>
-        <Route path='/' element={<HomePage/>}/>
+        <Route path='/ReactJs-Memes_generator' element={<HomePage/>}/>
         <Route path='/edit' element={<EditPage/>}/>
       </Routes>
     </div>
